@@ -61,4 +61,5 @@ Mevcut Dersleri Görüntülemek
 
 Ana menüden "4" seçeneği seçilir.
 Tüm dersler ve öğrenciler listelenir.
+
 Bu sistem, temel bir öğrenci ve ders yönetimi ihtiyaçlarını karşılamak için tasarlanmıştır. Sistem, kullanıcı dostu bir arayüz ve veri yönetimi ile kolaylık sağlar.
