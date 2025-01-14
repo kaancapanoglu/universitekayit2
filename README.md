@@ -1,4 +1,5 @@
-Öğrenci ve Ders Yönetim Sistemi - README Dosyası
+Öğrenci ve Ders Yönetim Sistemi 
+
 Bu uygulama, öğrencilerin ders kaydı yapabileceği, öğretim görevlilerinin eklenip yönetilebileceği, derslerin görüntülenebileceği ve öğrenci bilgilerinin tutulabileceği bir Öğrenci ve Ders Yönetim Sistemi sağlar. Program, konsol tabanlı bir kullanıcı arayüzü ile çalışmaktadır.
 
 Özellikler
