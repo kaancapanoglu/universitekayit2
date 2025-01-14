@@ -40,6 +40,7 @@ Person: Tüm kişi türleri için temel sınıf.
 Instructor: Öğretim görevlilerini temsil eder.
 Student: Öğrencileri temsil eder.
 Course: Dersleri temsil eder ve derslere kayıtlı öğrencileri tutar.
+
 2. DataManager
 
 Verilerin JSON ve XML formatında kaydedilmesi ve yüklenmesi için gerekli metotları içerir.
